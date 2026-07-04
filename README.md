@@ -10,5 +10,5 @@ This **To-Do List Application** is a simple yet effective task manager built usi
 ✅ Clear all tasks instantly  
 ✅ Simple and intuitive interface  
 
-Ideal for beginners looking to explore **GUI development** in Python, this project serves as a great starting point for **enhancing productivity with automation**. 
+Ideal for beginners looking to explore **GUI development** in Python, this project serves as a great starting point for **enhancing productivity with automation. 
 
